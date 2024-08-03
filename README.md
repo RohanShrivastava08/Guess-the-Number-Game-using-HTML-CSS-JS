@@ -1,5 +1,7 @@
 # 🕹️ Rock, Paper, Scissors Game using HTML, CSS & JavaScript
 
+## Live Server Link: https://guessthenumbergamee.netlify.app/
+
 - Welcome to my Guess the Number Game project!
 - This project is a browser-based implementation of the classic Guess the Number game, created using HTML, CSS, and JavaScript.
 - The game features a clean design, interactive gameplay, and smooth transitions for an engaging user experience.
